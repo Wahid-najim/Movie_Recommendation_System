@@ -3,7 +3,7 @@ Movie Recommendation System
 A simple movie recommendation system using machine learning to suggest movies based on user ratings.
 Installation
 
-    Clone the repository:
+Clone the repository:
 
 bash
 
