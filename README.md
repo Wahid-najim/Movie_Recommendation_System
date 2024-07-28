@@ -5,13 +5,9 @@ Installation
 
 Clone the repository:
 
-bash
-
     git clone https://github.com/yourusername/movie-recommendation-system.git
 
 Navigate to the project directory:
-
-bash
 
     cd movie-recommendation-system
 
